@@ -28,7 +28,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Addressbook_SYSC4806" target="1.8" />
-      <module name="Lab5" target="1.5" />
+      <module name="Lab5" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
